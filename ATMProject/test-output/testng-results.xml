@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="23" passed="23">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="194" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="194" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+      <class name="JunitManager.JunitBank">
+        <test-method status="PASS" signature="initializeBankDetails()[pri:0, instance:JunitManager.JunitBank@4e7dc304]" name="initializeBankDetails" is-config="true" duration-ms="5" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBankDetails -->
+        <test-method status="PASS" signature="verifyBankName()[pri:0, instance:JunitManager.JunitBank@4e7dc304]" name="verifyBankName" duration-ms="7" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBankName -->
+        <test-method status="PASS" signature="initializeBankDetails()[pri:0, instance:JunitManager.JunitBank@4e7dc304]" name="initializeBankDetails" is-config="true" duration-ms="2" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBankDetails -->
+        <test-method status="PASS" signature="verifyCusotmerAccountCreation()[pri:0, instance:JunitManager.JunitBank@4e7dc304]" name="verifyCusotmerAccountCreation" duration-ms="2" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCusotmerAccountCreation -->
+        <test-method status="PASS" signature="verifyCusotmerAccountUUID()[pri:0, instance:JunitManager.JunitBank@4e7dc304]" name="verifyCusotmerAccountUUID" duration-ms="2" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCusotmerAccountUUID -->
+        <test-method status="PASS" signature="initializeBankDetails()[pri:0, instance:JunitManager.JunitBank@4e7dc304]" name="initializeBankDetails" is-config="true" duration-ms="0" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBankDetails -->
+        <test-method status="PASS" signature="initializeBankDetails()[pri:0, instance:JunitManager.JunitBank@4e7dc304]" name="initializeBankDetails" is-config="true" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBankDetails -->
+        <test-method status="PASS" signature="verifyCusotmerDetailsCreation()[pri:0, instance:JunitManager.JunitBank@4e7dc304]" name="verifyCusotmerDetailsCreation" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCusotmerDetailsCreation -->
+        <test-method status="PASS" signature="initializeBankDetails()[pri:0, instance:JunitManager.JunitBank@4e7dc304]" name="initializeBankDetails" is-config="true" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBankDetails -->
+        <test-method status="PASS" signature="verifyCustomerUniqueId()[pri:0, instance:JunitManager.JunitBank@4e7dc304]" name="verifyCustomerUniqueId" duration-ms="3" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCustomerUniqueId -->
+        <test-method status="PASS" signature="initializeBankDetails()[pri:0, instance:JunitManager.JunitBank@4e7dc304]" name="initializeBankDetails" is-config="true" duration-ms="2" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBankDetails -->
+        <test-method status="PASS" signature="verifyExistingCusotmerLogin()[pri:0, instance:JunitManager.JunitBank@4e7dc304]" name="verifyExistingCusotmerLogin" duration-ms="5" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyExistingCusotmerLogin -->
+        <test-method status="PASS" signature="initializeBankDetails()[pri:0, instance:JunitManager.JunitBank@4e7dc304]" name="initializeBankDetails" is-config="true" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBankDetails -->
+        <test-method status="PASS" signature="verifyNonExistingCusotmerLogin()[pri:0, instance:JunitManager.JunitBank@4e7dc304]" name="verifyNonExistingCusotmerLogin" duration-ms="2" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNonExistingCusotmerLogin -->
+      </class> <!-- JunitManager.JunitBank -->
+      <class name="JunitManager.JunitUser">
+        <test-method status="PASS" signature="initializeUser()[pri:0, instance:JunitManager.JunitUser@2bbf4b8b]" name="initializeUser" is-config="true" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeUser -->
+        <test-method status="PASS" signature="addUserAccountTransaction()[pri:0, instance:JunitManager.JunitUser@2bbf4b8b]" name="addUserAccountTransaction" duration-ms="3" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUserAccountTransaction -->
+        <test-method status="PASS" signature="initializeUser()[pri:0, instance:JunitManager.JunitUser@2bbf4b8b]" name="initializeUser" is-config="true" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeUser -->
+        <test-method status="PASS" signature="validateUserFirstName()[pri:0, instance:JunitManager.JunitUser@2bbf4b8b]" name="validateUserFirstName" duration-ms="4" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserFirstName -->
+        <test-method status="PASS" signature="initializeUser()[pri:0, instance:JunitManager.JunitUser@2bbf4b8b]" name="initializeUser" is-config="true" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeUser -->
+        <test-method status="PASS" signature="validateUserPin()[pri:0, instance:JunitManager.JunitUser@2bbf4b8b]" name="validateUserPin" duration-ms="4" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserPin -->
+        <test-method status="PASS" signature="initializeUser()[pri:0, instance:JunitManager.JunitUser@2bbf4b8b]" name="initializeUser" is-config="true" duration-ms="0" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeUser -->
+        <test-method status="PASS" signature="verifyUserAccntSize()[pri:0, instance:JunitManager.JunitUser@2bbf4b8b]" name="verifyUserAccntSize" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserAccntSize -->
+        <test-method status="PASS" signature="initializeUser()[pri:0, instance:JunitManager.JunitUser@2bbf4b8b]" name="initializeUser" is-config="true" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeUser -->
+        <test-method status="PASS" signature="verifyUserAccountBalance()[pri:0, instance:JunitManager.JunitUser@2bbf4b8b]" name="verifyUserAccountBalance" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserAccountBalance -->
+        <test-method status="PASS" signature="initializeUser()[pri:0, instance:JunitManager.JunitUser@2bbf4b8b]" name="initializeUser" is-config="true" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeUser -->
+        <test-method status="PASS" signature="verifyUserAccountTransHistory()[pri:0, instance:JunitManager.JunitUser@2bbf4b8b]" name="verifyUserAccountTransHistory" duration-ms="2" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserAccountTransHistory -->
+        <test-method status="PASS" signature="initializeUser()[pri:0, instance:JunitManager.JunitUser@2bbf4b8b]" name="initializeUser" is-config="true" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeUser -->
+        <test-method status="PASS" signature="verifyUserUID()[pri:0, instance:JunitManager.JunitUser@2bbf4b8b]" name="verifyUserUID" duration-ms="2" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserUID -->
+        <test-method status="PASS" signature="initializeUser()[pri:0, instance:JunitManager.JunitUser@2bbf4b8b]" name="initializeUser" is-config="true" duration-ms="0" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeUser -->
+        <test-method status="PASS" signature="verifyUserUniqueId()[pri:0, instance:JunitManager.JunitUser@2bbf4b8b]" name="verifyUserUniqueId" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserUniqueId -->
+      </class> <!-- JunitManager.JunitUser -->
+      <class name="JunitManager.JunitAccount">
+        <test-method status="PASS" signature="intializeAccountDetails()[pri:0, instance:JunitManager.JunitAccount@30a3107a]" name="intializeAccountDetails" is-config="true" duration-ms="2" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeAccountDetails -->
+        <test-method status="PASS" signature="verifyCustomerAccountBalanceforMutipleTransaction()[pri:0, instance:JunitManager.JunitAccount@30a3107a]" name="verifyCustomerAccountBalanceforMutipleTransaction" duration-ms="3" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCustomerAccountBalanceforMutipleTransaction -->
+        <test-method status="PASS" signature="intializeAccountDetails()[pri:0, instance:JunitManager.JunitAccount@30a3107a]" name="intializeAccountDetails" is-config="true" duration-ms="2" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeAccountDetails -->
+        <test-method status="PASS" signature="verifyCustomerAccountBalanceforSingleTransaction()[pri:0, instance:JunitManager.JunitAccount@30a3107a]" name="verifyCustomerAccountBalanceforSingleTransaction" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCustomerAccountBalanceforSingleTransaction -->
+        <test-method status="PASS" signature="intializeAccountDetails()[pri:0, instance:JunitManager.JunitAccount@30a3107a]" name="intializeAccountDetails" is-config="true" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeAccountDetails -->
+        <test-method status="PASS" signature="verifyCustomerSummaryLine()[pri:0, instance:JunitManager.JunitAccount@30a3107a]" name="verifyCustomerSummaryLine" duration-ms="3" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCustomerSummaryLine -->
+        <test-method status="PASS" signature="intializeAccountDetails()[pri:0, instance:JunitManager.JunitAccount@30a3107a]" name="intializeAccountDetails" is-config="true" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeAccountDetails -->
+        <test-method status="PASS" signature="verifyCustomerTransactionCount()[pri:0, instance:JunitManager.JunitAccount@30a3107a]" name="verifyCustomerTransactionCount" duration-ms="12" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCustomerTransactionCount -->
+        <test-method status="PASS" signature="intializeAccountDetails()[pri:0, instance:JunitManager.JunitAccount@30a3107a]" name="intializeAccountDetails" is-config="true" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeAccountDetails -->
+        <test-method status="PASS" signature="verifyCustomerTransactionHistory()[pri:0, instance:JunitManager.JunitAccount@30a3107a]" name="verifyCustomerTransactionHistory" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCustomerTransactionHistory -->
+      </class> <!-- JunitManager.JunitAccount -->
+      <class name="JunitManager.JunitTransaction">
+        <test-method status="PASS" signature="initializeTransactionDetails()[pri:0, instance:JunitManager.JunitTransaction@33c7e1bb]" name="initializeTransactionDetails" is-config="true" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTransactionDetails -->
+        <test-method status="PASS" signature="verifyTransactionAmount()[pri:0, instance:JunitManager.JunitTransaction@33c7e1bb]" name="verifyTransactionAmount" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTransactionAmount -->
+        <test-method status="PASS" signature="initializeTransactionDetails()[pri:0, instance:JunitManager.JunitTransaction@33c7e1bb]" name="initializeTransactionDetails" is-config="true" duration-ms="4" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTransactionDetails -->
+        <test-method status="PASS" signature="verifyTransactionMemo()[pri:0, instance:JunitManager.JunitTransaction@33c7e1bb]" name="verifyTransactionMemo" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTransactionMemo -->
+        <test-method status="PASS" signature="initializeTransactionDetails()[pri:0, instance:JunitManager.JunitTransaction@33c7e1bb]" name="initializeTransactionDetails" is-config="true" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTransactionDetails -->
+        <test-method status="PASS" signature="verifyTransactionSummaryLine()[pri:0, instance:JunitManager.JunitTransaction@33c7e1bb]" name="verifyTransactionSummaryLine" duration-ms="1" started-at="2021-05-09T11:30:43 SGT" finished-at="2021-05-09T11:30:43 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTransactionSummaryLine -->
+      </class> <!-- JunitManager.JunitTransaction -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
